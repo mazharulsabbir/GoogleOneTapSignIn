@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "235295777144",
+    "project_id": "onetapsignin-aa1cf",
+    "storage_bucket": "onetapsignin-aa1cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235295777144:android:321d9c4ed446366c11a88d",
+        "android_client_info": {
+          "package_name": "com.schoolofthought.googleonetapsignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235295777144-o316jft0c58pi9mnclf7ek7r50cfi544.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV0XXUaoXdI2UZQvx0ynWHexldG6GYJOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235295777144-o316jft0c58pi9mnclf7ek7r50cfi544.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
